@@ -20,40 +20,31 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: analugarita@gmail.com
+phone: 506 8561 68 86
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Calle Siles, San Pedro
+  city: Montes de Oca
+  region: SJ
+  postcode: '11501'
+  country: Costa Rica
+  country_code: CR
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '9.930416'
+  longitude: '-84.040447'
+directions: Apts. Vistas a la Pista
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - 'Lunes a Viernes 7:00 to 15:00'
+
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/Twitter'
-  - icon: skype
+  - icon: whatsapp
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Whatsapp
+    link: 'https://web.whatsapp.com/?/es'
 
 # Site header
 
