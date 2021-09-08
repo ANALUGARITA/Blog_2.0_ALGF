@@ -1,27 +1,23 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Mis intereses de investigación son la geodesia aplicada y el descubrimiento de softwares alternativos y novedosos para manejar SIG. 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Lic. Ing. Topografía y Geodesia
+    institution: Escuela de Topografía, Catastro y Geodesia, Universidad Nacional, Costa Rica
+    year: 2018
+  - course: Bach. Ing. Topógrafa
+    institution: Escuela de Topografía, Catastro y Geodesia, Universidad Nacional, Costa Rica
     year: 2008
 email: ""
-highlight_name: true
+highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Topografía y Geodesia
+- Sistemas de Información Geográfica
+- Programación
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Consejo Nacional de Vialidad
+  url: https://conavi.go.cr/
+role: Ing. Topógrafa y Geodesta
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,22 +27,22 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/lumtrix_geo
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?hl=en&user=-pGo7tAAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ANALUGARITA
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/ana-luc%C3%ADa-garita-fern%C3%A1ndez-a79430148/
 superuser: true
-title: Nelson Bighetti
+title: Ana Lucía Garita Fernández
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ana Lucía Garita Fernández es una ingeniera topografa especialista en geodesia, graduada de la Universidad Nacional en el 2018. Actualmente se encuentra estudiando un posgrado den Sistemas de Información Geográfica y Teledetección. Sus intereses de investigación es la geodesia aplicada y el descubrimiento de softwares alternativos y novedosos para manejar SIG. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/01_Curriculum_Ana_Lucia_Garita_Fernandez.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
